@@ -1,7 +1,7 @@
 # Import necessary libraries
 import streamlit as st
 from datetime import datetime
-import google.generativeai as genai
+import google.generativeai as gemiai
 
 # Configure API key for Gemini model
 api_key = "AIzaSyCBQl3mTVovqddKKzk7NBJxEHx3ZaZV99I"
